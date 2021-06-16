@@ -1,0 +1,3 @@
+[submodule "app/Libraries/swagger-generator"]
+	path = app/Libraries/swagger-generator
+	url = https://github.com/yarodriguez94/swagger
